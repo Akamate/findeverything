@@ -14,6 +14,7 @@
 		61501E9724064195001F97FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61501E9624064195001F97FD /* Assets.xcassets */; };
 		61501E9A24064195001F97FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61501E9824064195001F97FD /* LaunchScreen.storyboard */; };
 		61501EA224064298001F97FD /* Screen Shot 2563-02-26 at 13.07.12.png in Resources */ = {isa = PBXBuildFile; fileRef = 61501EA124064298001F97FD /* Screen Shot 2563-02-26 at 13.07.12.png */; };
+		618989E82417C41E0070CB97 /* Level2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618989E72417C41E0070CB97 /* Level2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		61501E9924064195001F97FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		61501E9B24064195001F97FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		61501EA124064298001F97FD /* Screen Shot 2563-02-26 at 13.07.12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2563-02-26 at 13.07.12.png"; sourceTree = "<group>"; };
+		618989E72417C41E0070CB97 /* Level2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Level2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		61501E8C2406418F001F97FD /* findeverything */ = {
 			isa = PBXGroup;
 			children = (
+				618989E72417C41E0070CB97 /* Level2ViewController.swift */,
 				61501E8D2406418F001F97FD /* AppDelegate.swift */,
 				61501E8F2406418F001F97FD /* SceneDelegate.swift */,
 				61501E912406418F001F97FD /* GameViewController.swift */,
@@ -144,6 +147,7 @@
 			files = (
 				61501E922406418F001F97FD /* GameViewController.swift in Sources */,
 				61501E8E2406418F001F97FD /* AppDelegate.swift in Sources */,
+				618989E82417C41E0070CB97 /* Level2ViewController.swift in Sources */,
 				61501E902406418F001F97FD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
